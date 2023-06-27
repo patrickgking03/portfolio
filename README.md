@@ -25,4 +25,5 @@ This is my personal portfolio website which has an about me, my education and sc
 Over time, as my education and experience change, I will be updating the whole site. Along with adding new skills I develop, which includes new programming languages, and new projects I will be making.
 
 **Names:** Patrick King <br>
-**Date:** December 14, 2022
+**Created:** June 27, 2023 <br>
+**Last Updated :** June 27, 2023
