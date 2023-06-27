@@ -95,25 +95,6 @@ header{
     transition: .2s linear;
 }
 
-header .user img{
-    height:17rem;
-    width:17rem;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-bottom: 1rem;
-    border:.7rem solid var(--blue);
-}
-
-header .user .name{
-    font-size: 3.5rem;
-    color:#fff;
-}
-
-header .user .post{
-    font-size: 1.8rem;
-    color:#aaa;
-}
-
 header .navbar{
     width:100%;
 }
