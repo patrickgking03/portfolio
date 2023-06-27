@@ -24,5 +24,5 @@ This is my personal portfolio website which has an about me, my education and sc
 ## Future Plans
 Over time, as my education and experience change, I will be updating the whole site. Along with adding new skills I develop, which includes new programming languages, and new projects I will be making.
 
-**Names:** Patrick King
+**Names:** Patrick King <br>
 **Date:** December 14, 2022
