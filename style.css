@@ -57,6 +57,21 @@ section{
     border-radius: 5rem;
 }
 
+.btn2{
+    padding:1rem 2rem;
+    background:#333;
+    color:#fff;
+    cursor: pointer;
+    margin-top: 1rem;
+    font-size: 2rem;
+    border-radius: 5rem;
+}
+
+.button-container {
+    display: flex;
+    gap: 5.5px;
+}
+
 .btn i{
     padding:0 .5rem;
     font-size: 1.8rem;
